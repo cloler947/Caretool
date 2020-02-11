@@ -75,7 +75,7 @@ gem 'font-awesome-sass', '~> 5.12.0'
 
 gem 'ransack'
 
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'jquery-rails'
 
 gem 'rails-i18n', '~> 5.1'
